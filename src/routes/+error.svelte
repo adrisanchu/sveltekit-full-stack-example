@@ -4,7 +4,8 @@
 
 <div class="error">
 	<h1>{$page.status}: {$page.error?.message}</h1>
-	<img src="surprised_cat.png" alt="Surprised cat" />
+	<p>Error at /src</p>
+	<img src="../surprised_cat.png" alt="Surprised cat" />
 </div>
 
 <style>
